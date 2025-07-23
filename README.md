@@ -41,7 +41,6 @@ This project is a minimal full-stack web application designed to collect and dis
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/feedback-app.git
 cd feedback-app
 
